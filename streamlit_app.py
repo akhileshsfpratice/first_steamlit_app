@@ -119,4 +119,3 @@ if streamlit.button('Get fruit load list'):
 
 
 
-
